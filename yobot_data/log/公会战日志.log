@@ -1,0 +1,42 @@
+[2022-04-15 05:00:05,411] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
+[2022-04-16 05:00:03,588] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
+[2022-05-15 05:00:00,033] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
+[2022-06-13 05:00:00,030] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
+[2022-08-09 05:00:00,032] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
+[2022-09-07 05:00:00,033] ERROR: 获取群列表错误
+Traceback (most recent call last):
+  File "/root/qqbot/yobot/yobot/src/client/ybplugins/clan_battle/battle.py", line 157, in _update_group_list_async
+    group_list = await self.api.get_group_list()
+  File "/root/.local/lib/python3.6/site-packages/aiocqhttp/api.py", line 184, in call_action
+    raise ApiNotAvailable
+aiocqhttp.exceptions.ApiNotAvailable
